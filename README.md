@@ -1,4 +1,4 @@
 # branch ketiga ya 
 
-masa  ngak bisa biki branch 
+masa  ngak bisa bikin branch 
   
